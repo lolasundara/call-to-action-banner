@@ -12,9 +12,9 @@ body {
 }
 
 .banner {
+  position: relative;
   max-height: 500px;
   width: 100%;
-  position: relative;
   overflow: hidden;
 }
 
@@ -28,6 +28,7 @@ body {
 .img-flex {
   display: block;
   width: 25%;
+  margin-left: 1em;
 }
 
 h2 {
@@ -35,7 +36,7 @@ h2 {
   font-size: 3rem;
   color: #000;
   width: 100%;
-  margin-left: .75em;
+  margin-left: 1em;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -43,7 +44,7 @@ h2 {
 p {
   width: 100%;
   font-size: 1.5rem;
-  margin-left: 1.5em;
+  margin-left: 2em;
   margin-top: .5em;
   margin-bottom: 1em;
 }
@@ -61,7 +62,7 @@ p {
 }
 
 .btn-big {
-  margin-left: 2em;
+  margin-left: 2.75em;
   margin-bottom: 4em;
 }
 
