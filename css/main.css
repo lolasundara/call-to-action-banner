@@ -22,10 +22,10 @@ body {
   position: absolute;
   bottom: 1.5rem;
   left: 50%;
-  transform: translateX(-50%)
+  transform: translateX(-50%);
 }
 
-img {
+.img-flex {
   display: block;
   width: 25%;
 }
@@ -41,10 +41,11 @@ h2 {
 }
 
 p {
+  width: 100%;
   font-size: 1.5rem;
   margin-left: 1.5em;
   margin-top: .5em;
-  margin-bottom: 4em;
+  margin-bottom: 1em;
 }
 
 .btn {
@@ -57,4 +58,14 @@ p {
   border: 3px solid #333;
   font-size: 1.125rem;
   text-decoration: none;
+}
+
+.btn-big {
+  margin-left: 2em;
+  margin-bottom: 4em;
+}
+
+.btn:hover {
+  color: #fff;
+  background-color: #000;
 }
