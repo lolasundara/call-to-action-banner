@@ -21,3 +21,15 @@ h2 {
 p {
   font-size: 1.5rem;
 }
+
+.btn {
+  display: inline-block;
+  padding: .75em;
+  padding-bottom: .75em;
+  background-color: #333;
+  color: #fff;
+  border-radius: 8px;
+  border: 3px solid #333;
+  font-size: 1.125rem;
+  text-decoration: none;
+}
