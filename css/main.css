@@ -24,6 +24,7 @@ body {
   left: 50%;
   transform: translateX(-50%);
   max-width: 45em;
+  float: right;
 }
 
 .img-flex {
