@@ -46,9 +46,10 @@ p {
   width: 100%;
   font-size: 1.5rem;
   margin-left: 4em;
-  margin-top: .5em;
-  margin-bottom: 1em;
+  margin-top: .3em;
+  margin-bottom: .75em;
   margin-right: 0;
+  line-height: 1.5;
 }
 
 .btn {
@@ -65,7 +66,7 @@ p {
 
 .btn-big {
   margin-left: 4em;
-  margin-bottom: 2em;
+  margin-bottom: 1.6em;
 }
 
 .btn:hover {
