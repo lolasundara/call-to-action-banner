@@ -24,7 +24,6 @@ body {
   left: 50%;
   transform: translateX(-50%);
   max-width: 45em;
-  float: right;
 }
 
 .img-flex {
@@ -40,6 +39,7 @@ h2 {
   margin-left: 2em;
   margin-top: 0;
   margin-bottom: 0;
+  font-weight: bold;
 }
 
 p {
@@ -72,6 +72,11 @@ p {
 .btn:hover {
   color: #fff;
   background-color: #000;
+}
+
+div {
+  float: right;
+  bottom: 5em;
 }
 
 .div-one {
